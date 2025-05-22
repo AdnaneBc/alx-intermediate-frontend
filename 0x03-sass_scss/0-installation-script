@@ -1,4 +1,4 @@
-1- create a folder using mkdir and navigate to it using cd 
+1- create a folder using mkdir and navigate to it using cd
 2- init a package.json file using the command npm init -y
-3- install sass using : npm install -g sass
+3- install sass using npm install -g sass
 4- verify the installation using the command sass --version
